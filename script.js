@@ -45,7 +45,7 @@ for (let i = 1; i <= total; i++) {
             <div class="love_vertical">
 
                 <div class="love_word">
-                    I love you
+                    I love you Phươngg
                 </div>
 
             </div>
